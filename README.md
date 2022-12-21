@@ -1,9 +1,11 @@
-# voxel
+# voxelmorph
 
 Deformable image registration
 
-To run the code simply run voxel.ipynb file.
+# run the code
 
-See the paper for more details:
+To run the code simply run Voxel.ipynb file.
+
+#See the paper for more details:
 
 VoxelMorph: A Learning Framework for Deformable Medical Image Registration
